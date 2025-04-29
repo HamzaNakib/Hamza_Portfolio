@@ -14,7 +14,7 @@ Bachelor Degree in BioyHealth, BioTechand and BioPharma
 
 #### Project 1 Title
  - Project 1 Summary
- - ![Excel](\IMG_0556.jpeg)
+ - ![Excel](IMG_0556.jpeg)
  - Project 1 Report
 ***
 #### Project 2 Title
