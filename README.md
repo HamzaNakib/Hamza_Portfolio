@@ -9,6 +9,7 @@ My strong work ethic, commitment to compassionate care, and curiosity about the 
 
 ### Education 
 Bachelor Degree in BioyHealth, BioTechand and BioPharma
+***
 
 ### Projects
 
